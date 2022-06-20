@@ -431,7 +431,7 @@ VS Code will be our javascript IDE of Integrated Development Environment of choi
 
 VS Code can be downloaded [here](https://code.visualstudio.com/download), it’s just a simple app, download and open.
 
-This, is where the fun begins.
+# This, is where the fun begins.
 If you are new to this, and you made it through all this in one sitting. Congratulations, I mean it,  it may not feel like it, but we did a lot. We took your clean mac and decked it out with the tools and programs needed to code. Java? Python? Javascript? Your machine is ready for all of them. So the only question worth asking now, which will we start with?
 
 Stay curious my friends.
